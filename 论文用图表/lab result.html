@@ -1,0 +1,152 @@
+<html>
+<head>
+<style type="text/css">
+body{width:700px}
+.top{width:100%;height:50px}
+.mid{width:100%;height:250px}
+.left{float:left;width:45%;height:100%}
+.right{float:left;width:45%;height:100%}
+.access{width:100%;height:100px}
+.down{width:100%;height:200px}
+.form{clear:both}
+.afterspace{
+ margin-right: 8px;
+}
+.beforespace{
+ margin-left: 30px;
+}
+.namewidth{
+ width:100px;
+}
+
+</style>
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+<!-- 可选的Bootstrap主题文件（一般不用引入） -->
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+<link href="http://cdn.bootcss.com/twitter-bootstrap/2.0.4/css/bootstrap-responsive.min.css" rel="stylesheet">
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+
+</head>
+<body>
+<div class="top"></div>
+<div class="mid">
+<div class="left beforespace">
+<form class="form">
+    <fieldset>
+      <div id="legend" class="">
+        <legend class="">主体以及主体属性</legend>
+      </div>
+    <div>
+	<label class="control-label namewidth" for="input01">用户名</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="张三">
+    </div>
+
+
+    <div>
+	<label class="control-label namewidth" for="input01">用户ID</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="236981">
+    </div>
+
+    <div>
+	<label class="control-label namewidth" for="input01">租户ID</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="2374136">
+    </div>
+
+    <div class="control-group">
+          <label class="control-label namewidth">用户角色</label>
+          <select class="input-xlarge">
+              <option select="selected">开发人员</option>
+              <option>Your</option>
+              <option>Options</option>
+              <option>Here!</option>
+          </select>
+     </div>
+
+    <div class="control-group">
+          <label class="control-label namewidth">用户职位</label>
+          <select class="input-xlarge">
+              <option select="selected">开发工程师</option>
+              <option>Your</option>
+              <option>Options</option>
+              <option>Here!</option>
+          </select>
+    </div>
+
+    <div>
+	<label class="control-label namewidth" for="input01">参与项目</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="缓存系统开发">
+    </div>
+    </fieldset>
+</form>
+</div>
+<div class="right beforespace">
+<form class="form">
+    <fieldset>
+      <div id="legend" class="">
+        <legend class="">客体以及客体属性</legend>
+      </div>
+    <div>
+	<label class="control-label namewidth" for="input01">资源名称</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="finder.java">
+    </div>
+
+
+    <div>
+	<label class="control-label namewidth" for="input01">资源ID</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="8614273">
+    </div>
+
+    <div>
+	<label class="control-label namewidth" for="input01">租户ID</label>
+        <input placeholder="placeholder" class="input-xlarge" type="text" value="2374136">
+    </div>
+
+    <div class="control-group">
+          <label class="control-label namewidth">资源创建时间</label>
+          <input placeholder="placeholder" class="input-xlarge" type="text" value="2014-12-18 15:09:23">
+     </div>
+
+    <div class="control-group">
+          <label class="control-label namewidth">资源所属项目</label>
+          <input placeholder="placeholder" class="input-xlarge" type="text" value="缓存系统">
+    </div>
+
+    <div class="control-group">
+          <label class="control-label namewidth">资源类型</label>
+          <input placeholder="placeholder" class="input-xlarge" type="text" value="源代码文件">
+    </div>
+
+    </fieldset>
+</form>
+</div>
+</div>
+<div class="access beforespace">
+
+  <form class="form-horizontal">
+    <fieldset>
+	<div id="legend" class="">
+           <legend class="">要执行的操作</legend>
+        </div>
+          <div class="controls">
+            <button class="btn btn-success">读取</button>
+ 	    <button class="btn btn-success">更新</button>
+          </div>
+    </fieldset>
+  </form>
+</div>
+<div class="down beforespace">
+  <form class="form-horizontal">
+    <fieldset>
+	<div id="legend" class="">
+           <legend class="">授权日志</legend>
+        </div>
+          <div class="controls">[2014-12-20 18:06:30.532]主体“张三”申请更新客体“finder.java”。授权结果：拒绝。原因：主客体租户不匹配
+          </div>
+    </fieldset>
+  </form>
+</div>
+</body>
+</html>
