@@ -1,0 +1,40 @@
+刘松柏. 大数据及应用就是国家竞争力[EB/OL]. http://www.chinacloud.cn/show.aspx?id=18787&cid=22.
+ChinaCloud. 云安全的架构设计与实践之旅[EB/OL]. http://www.chinacloud.cn/show.aspx?id=18369&cid=29.
+wiki. 云计算[EB/OL]. http://zh.wikipedia.org/wiki/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97.
+于欣. 云计算中的访问控制技术研究[D]. 西安：西安电子科技大学, 2013.
+ChinaCloud. 云计算的6个未来趋势[EB/OL]. http://www.chinacloud.cn/show.aspx?id=18371&cid=22.
+ChinaCloud. 云存储取得的突破性应用[EB/OL]. http://www.chinacloud.cn/show.aspx?id=17339&cid=30.
+周晓军. 基于 RB-RBAC_ (ex) 模型的 PMI 系统的研究与设计[D]. 上海：上海交通大学, 2010.
+毛玉萃. 安全操作系统中的存取控制[J]. 大连大学学报, 2004, 25(4): 60-63.
+鸟哥. 鸟哥的Linux私房菜 [M]. 北京: 人民邮电出版社, 2010.
+魏娟. 云计算中基于角色的访问控制管理模型研究[D]. 湖南大学, 2012.
+程剑豪. 基于多元判决的动态访问控制模型的研究与设计[D]. 上海：上海交通大学, 2009.
+何康. 云计算环境下基于多目标规划的访问控制模型研究[D]. 长沙：湖南大学, 2012.
+Sandhu R S, Coyne E J, Feinstein H L, et al. Role-based access control models[J]. Computer, 1996, 29(2): 38-47.
+Sandhu R. Role activation hierarchies[A]//Proceedings of the third ACM workshop on Role-based access control[C]. ACM, 1998: 33-40.
+罗鑫. 访问控制技术与模型研究[D]. 北京：北京邮电大学, 2009.
+Arnab A, Hutchison A. Persistent access control: a formal model for drm[A]//Proceedings of the 2007 ACM workshop on Digital Rights Management[C]. ACM, 2007: 41-53.
+Martínez-García C, Navarro-Arribas G, Foley S N, et al. Flexible secure inter-domain interoperability through attribute conversion[J]. Information Sciences, 2011, 181(16): 3491-3507.
+钱进进. 私有云安全存储技术的研究与实现[D]. 广州：广东工业大学, 2013.
+杨丽丽. 云存储网关的研究与实现[D]. 武汉：华中科技大学, 2013.
+Lee. Hadoop介绍[EB/OL]. http://blog.csdn.net/leechenglong/article/details/22790225.
+Apache. HDFS Architecture Guide[EB/OL]. http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html.
+greatwqs. Hadoop HDFS架构和设计[EB/OL]. http://greatwqs.iteye.com/blog/1840321.
+OASIS. xacml-3.0-core-spec-os-en[EB/OL]. http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.pdf.
+刘铁钢. 基于 XACML 的多租户访问控制的研究与应用[D]. 呼和浩特：内蒙古大学, 2014.
+OASIS. A Brief Introduction to XACML[EB/OL]. https://www.oasis-open.org/committees/download.php/2713/Brief_Introduction_to_XACML.html.
+姚冬梅. 基于UCON的云计算访问控制模型研究[D]. 南京：南京大学，2012.5.
+田光辉. 使用控制理论及应用研究[D]. 西安：西北大学，2008.6.
+聂丽平. 基于 UCON 访问控制模型的分析与研究[D]. 合肥：合肥工业大学, 2006.
+袁琦. SAAS 模式下访问控制的研究及应用[D]. 广州：暨南大学, 2012.
+李萍. 基于 UCON 模型的 PMI 系统的研究与实现[D]. 上海：上海交通大学, 2007.
+任礼. 云计算的多租户存储分析[J]. 科学与财富, 2013，2013 (11): 323-323.
+刘宇龙, 薛涛. 企业多租户云存储平台的设计与实现[J]. 西安：西安工程大学学报, 2014, 28(2): 213-219.
+沈晴霓, 杨雅辉, 禹熹, 等. 一种面向多租户云存储平台的访问控制策略[J]. 小型微型计算机系统, 2011, 32(11): 2223-2229.
+谢辉, 张斌, 任志宇. 基于 UCON 模型的 PMI 体系结构[J]. 计算机工程与设计,2009，2009 (7): 1590-1592.
+Asela. “Balana” The Open source XACML 3.0 implementation[EB/OL]. http://xacmlinfo.org/2012/08/16/balana-the-open-source-xacml-3.
+Apache. ActiveMQ[EB/OL].http://activemq.apache.org/.
+蔡斌，陈湘萍著. Hadoop技术内幕[M]. 北京: 机械工业出版车, 2013.
+W3SCHOOL. MongoDB 索引[EB/OL]. http://www.w3cschool.cc/mongodb/mongodb-indexing.html.
+xiajun07061225. 负载均衡-加权轮询策略剖析[EB/OL]. http://blog.csdn.net/xiajun07061225/article/details/9318871.
+cywosp. 理解一致性哈希算法[EB/OL].  http://blog.csdn.net/cywosp/article/details/23397179.
